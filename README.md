@@ -34,11 +34,8 @@ Welcome to my GitHub profile! Here, I showcase my journey as a developer, my pro
   <!-- Tools & Platforms -->
   <img src="https://img.shields.io/badge/Tools-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tools-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tools-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   
-  <!-- Operating Systems -->
-  <img src="https://img.shields.io/badge/OS-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OS-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+ 
 </p>
 
 
