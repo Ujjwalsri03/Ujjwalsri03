@@ -86,8 +86,6 @@ Welcome to my GitHub profile! Here, I showcase my journey as a developer, my pro
 
 ## 🐍 **Contribution Snake**
 
-### 🐍 Contribution Snake
-
 ![Snake animation](https://github.com/Ujjwalsri03/Ujjwalsri03/blob/output/github-contribution-grid-snake.svg)
 
 
@@ -95,7 +93,8 @@ Welcome to my GitHub profile! Here, I showcase my journey as a developer, my pro
 
 ## 🎨 **Activity Graph**
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ujjwalsri03&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ujjwalsri03&theme=github)
+
 
 ---
 
