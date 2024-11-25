@@ -86,7 +86,10 @@ Welcome to my GitHub profile! Here, I showcase my journey as a developer, my pro
 
 ## 🐍 **Contribution Snake**
 
+### 🐍 Contribution Snake
+
 ![Snake animation](https://github.com/Ujjwalsri03/Ujjwalsri03/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
