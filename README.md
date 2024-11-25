@@ -53,8 +53,8 @@ Welcome to my GitHub profile! Here, I showcase my journey as a developer, my pro
 ## 📈 **GitHub Stats**
 
 <p align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; ">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ujjwalsri03&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 45%; max-width: 400px; height:150px;"/>
-  <img src="https://streak-stats.demolab.com?user=Ujjwalsri03&theme=radical" alt="GitHub Streak Stats" style="width: 45%; max-width: 400px; height:150px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ujjwalsri03&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 45%; max-width: 400px; height:200px;"/>
+  <img src="https://streak-stats.demolab.com?user=Ujjwalsri03&theme=radical" alt="GitHub Streak Stats" style="width: 45%; max-width: 400px; height:200px;"/>
 </p>
 
 
